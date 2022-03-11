@@ -1,0 +1,9 @@
+body{
+    background-color: white;
+    color: green;
+    font-size: 5em;
+}
+    body:hover{
+        background-color: aliceblue;
+        color: black;
+    }
